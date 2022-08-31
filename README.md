@@ -1,5 +1,9 @@
-# pg-receita
-Desafio do Discover da Rocketseat
+# Página de Receita Simples
+Desafio da Discover do Rocketseat
+<div align="center">
+<img src="https://user-images.githubusercontent.com/100961950/187743661-0cbfb4db-8201-4c02-a7de-62c980015562.gif" width="700px" />
+</div>
+
 
 <p align="center">
   <img alt="" src=".github/preview.png" width="100%">
@@ -12,10 +16,6 @@ Desafio do Discover da Rocketseat
 
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=ED2590&labelColor=5292C1" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/birobirobiro/hubkut?label=forks&message=MIT&color=ED2590&labelColor=5292C1" alt="Forks">
-
-  <img src="https://img.shields.io/github/stars/birobirobiro/hubkut?label=stars&message=MIT&color=ED2590&labelColor=5292C1 " alt="Stars">
 </p>
 
 ## 🚀 Tecnologias
